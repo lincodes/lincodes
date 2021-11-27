@@ -26,6 +26,7 @@ I'm currently open to entry-level and junior front end positions in and around T
 
 
 🌟 About Me:
+
 I love to create and share my ideas, thoughts and inspirations with the world. For many years, I did this as a paid writer - now I want to develop amazing digital experiences for others to enjoy!
 
 Life is short, so I'm determined to have as many adventures and experiences as possible. 
@@ -35,6 +36,7 @@ My dream is to use my skills and knowledge to help others and make the world a b
 
 
 📫 Contact Me: 
+
 You can contact me on Linked In : https://www.linkedin.com/in/lr-japan/
 
 <!--
