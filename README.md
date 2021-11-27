@@ -1,4 +1,12 @@
-### Hi there 👋
+
+
+### こんにちは！👋
+
+My name is Lin, and I'm a self-taught front end developer living in Tokyo, Japan. 
+I'm currently open to entry-level and junior front end positions in and around Tokyo. 
+
+
+
 
 <!--
 **lincodes/lincodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
