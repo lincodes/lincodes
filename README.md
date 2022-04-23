@@ -1,11 +1,8 @@
 
-![Header](https://github.com/lincodes/lincodes/blob/e1e4c298b49096e99b2341cb0c1b84faf1d054a3/%E3%83%86%E3%82%99%E3%82%B5%E3%82%99%E3%82%A4%E3%83%B3%20%E6%8F%90%E6%A1%88%E6%9B%B8.png)
-
 
 ### こんにちは！👋
 
-My name is Lin, and I'm a self-taught front end developer living in Tokyo, Japan. 
-I'm currently open to entry-level and junior front end positions in and around Tokyo. 
+My name is Caitie, and I'm a self-taught front end developer living in Tokyo, Japan.
 
 🌱 Currently Studying: 
 - React JS
